@@ -5707,7 +5707,6 @@ eventid,gname
 200501250006,Ansar al-Sunna
 200501270003,Baloch Liberation Army (BLA)
 200501270004,Kurdistan Workers' Party (PKK)
-200501270004,Kurdistan Workers' Party (PKK)
 200501270006,Maoists
 200501300001,Basque Fatherland and Freedom (ETA)
 200501310004,Harkatul Jihad-e-Islami
@@ -11017,7 +11016,6 @@ eventid,gname
 200905120008,Taliban
 200905120009,Taliban
 200905120012,Communist Party of India - Maoist (CPI-Maoist)
-200905120012,Communist Party of India - Maoist (CPI-Maoist)
 200905120014,Tehrik-i-Taliban Pakistan (TTP)
 200905120021,Taliban
 200905120022,Taliban
@@ -11608,7 +11606,6 @@ eventid,gname
 200908200051,Communist Party of India - Maoist (CPI-Maoist)
 200908200062,Taliban
 200908200065,Revolutionary Armed Forces of Colombia (FARC)
-200908200065,Revolutionary Armed Forces of Colombia (FARC)
 200908210001,Taliban
 200908210017,National Democratic Front of Bodoland (NDFB)
 200908210018,Kangleipak Communist Party (KCP)
@@ -11804,7 +11801,6 @@ eventid,gname
 200910080005,Taliban
 200910080013,New People's Army (NPA)
 200910080015,Communist Party of India - Maoist (CPI-Maoist)
-200910080018,Revolutionary Armed Forces of Colombia (FARC)
 200910080018,Revolutionary Armed Forces of Colombia (FARC)
 200910080020,Islamic State of Iraq (ISI)
 200910090005,Taliban
@@ -12358,10 +12354,7 @@ eventid,gname
 201002190030,Karen National Union
 201002190031,Karen National Union
 201002200003,Revolutionary Armed Forces of Colombia (FARC)
-201002200003,Revolutionary Armed Forces of Colombia (FARC)
 201002200004,Revolutionary Armed Forces of Colombia (FARC)
-201002200004,Revolutionary Armed Forces of Colombia (FARC)
-201002200005,Revolutionary Armed Forces of Colombia (FARC)
 201002200005,Revolutionary Armed Forces of Colombia (FARC)
 201002200010,Taliban
 201002210009,Islamic State of Iraq (ISI)
@@ -12492,7 +12485,6 @@ eventid,gname
 201003180008,Revolutionary Armed Forces of Colombia (FARC)
 201003180011,Communist Party of India - Maoist (CPI-Maoist)
 201003180017,Al-Aqsa Martyrs Brigade
-201003180017,Al-Aqsa Martyrs Brigade
 201003180017,Ansar Al Sunnah (Palestine)
 201003180022,Communist Party of India - Maoist (CPI-Maoist)
 201003190010,The Joint Revolutionary Council
@@ -12537,7 +12529,6 @@ eventid,gname
 201003240008,Communist Party of India - Maoist (CPI-Maoist)
 201003240009,New People's Army (NPA)
 201003240010,New People's Army (NPA)
-201003240011,Revolutionary Armed Forces of Colombia (FARC)
 201003240011,Revolutionary Armed Forces of Colombia (FARC)
 201003250004,Revolutionary Armed Forces of Colombia (FARC)
 201003250005,Communist Party of India - Maoist (CPI-Maoist)
@@ -12791,7 +12782,6 @@ eventid,gname
 201005120013,Kurdistan Free Life Party
 201005120014,Kurdistan Free Life Party
 201005120016,Animal Liberation Front (ALF)
-201005120017,Sudan People's Liberation Army (SPLA)
 201005120017,Sudan People's Liberation Army (SPLA)
 201005120018,Al-Shabaab
 201005120021,Janatantrik Terai Mukti Morcha (JTMM)
@@ -13932,7 +13922,6 @@ eventid,gname
 201012010016,Al-Shabaab
 201012020001,Revolutionary Armed Forces of Colombia (FARC)
 201012020002,Hizbul al Islam (Somalia)
-201012020002,Hizbul al Islam (Somalia)
 201012020007,Communist Party of India - Maoist (CPI-Maoist)
 201012020008,Communist Party of India - Maoist (CPI-Maoist)
 201012020009,Communist Party of India - Maoist (CPI-Maoist)
@@ -13978,14 +13967,11 @@ eventid,gname
 201012110008,Iraqi extremists
 201012110009,Iraqi extremists
 201012110010,Hizbul al Islam (Somalia)
-201012110010,Hizbul al Islam (Somalia)
 201012110017,Communist Party of India - Maoist (CPI-Maoist)
-201012120006,Hizbul al Islam (Somalia)
 201012120006,Hizbul al Islam (Somalia)
 201012120007,Animal Rights Militia
 201012130001,Taliban
 201012130003,Al-Shabaab
-201012130004,Hizbul al Islam (Somalia)
 201012130004,Hizbul al Islam (Somalia)
 201012130011,Communist Party of India - Maoist (CPI-Maoist)
 201012130013,Revolutionary Armed Forces of Colombia (FARC)
@@ -14475,7 +14461,6 @@ eventid,gname
 201104030003,Tehrik-i-Taliban Pakistan (TTP)
 201104030004,Taliban
 201104030009,National Liberation Army of Colombia (ELN)
-201104030010,Revolutionary Armed Forces of Colombia (FARC)
 201104030010,Revolutionary Armed Forces of Colombia (FARC)
 201104030011,Moro Islamic Liberation Front (MILF)
 201104040002,National Democratic Front of Bodoland (NDFB)
@@ -15270,7 +15255,6 @@ eventid,gname
 201110060010,Kurdistan Workers' Party (PKK)
 201110070006,Al-Shabaab
 201110070007,Communist Party of India - Maoist (CPI-Maoist)
-201110070008,Zeliangrong United Front
 201110070008,Zeliangrong United Front
 201110080005,Taliban
 201110090006,Boko Haram
