@@ -15,8 +15,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from terrorismapp.views import primeraQuery, seleccion_preguntas
+from terrorismapp.views import primeraQuery, segundaQuery,terceraQuery, seleccion_preguntas
 urlpatterns = [
     path('admin/', admin.site.urls),path('PaginaPrincipal/',seleccion_preguntas),
-    path('primeraQuery/',primeraQuery)
+    path('primeraQuery/',primeraQuery),path('segundaQuery/',segundaQuery),path('terceraQuery/',terceraQuery),
 ]
